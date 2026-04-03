@@ -5,6 +5,8 @@ This project analyzes retail store operations using SQL to uncover insights on r
 The analysis focuses on identifying high-value customers, top-performing categories, and sales trends to support data-driven business decisions.
 
 ---
+## 📌 Problem Statement  
+Retail businesses need to understand customer behavior, product performance, and revenue trends to improve decision-making and optimize operations.
 
 ## 🎯 Objectives  
 - Analyze sales and revenue performance  
