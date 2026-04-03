@@ -70,4 +70,3 @@ This project shows how SQL can transform raw retail data into meaningful busines
 
 ## 🔗 Author  
 **Kajal Kumari**  
-Aspiring Data Analyst | SQL | Excel | Python | Tableau  
