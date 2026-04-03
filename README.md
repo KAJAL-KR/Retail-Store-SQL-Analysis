@@ -1,8 +1,8 @@
 # 📊 Retail Store SQL Analysis
 
 ## 🔍 Overview  
-This project analyzes retail store data using SQL to extract insights on sales performance, customer behavior, and product trends.  
-It demonstrates how SQL can support data-driven business decisions.
+This project analyzes retail store operations using SQL to uncover insights on revenue, customer behavior, and product performance. 
+The analysis focuses on identifying high-value customers, top-performing categories, and sales trends to support data-driven business decisions.
 
 ---
 
